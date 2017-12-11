@@ -77,15 +77,15 @@ public class Exercises {
     }
       public static void exercise_18(){
         System.out.println("********** Exercise 18 **********");
-         int eded1 = 1;
-        int eded2 = 2;
+        int num1 = 1;
+        int num2 = 2;
         for (int i = 1; i <=4; i++) {
             System.out.println("");
-            for (int j = eded1; j < eded2; j++) {
+            for (int j = num1; j < num2; j++) {
                 System.out.print(j+" ");
             }
-            eded1 = eded1 + i;
-            eded2 = eded2 + i+1;
+            num1 = num1 + i;
+            num2 = num2 + i+1;
         }
         System.out.println("");
     
@@ -93,13 +93,67 @@ public class Exercises {
         System.out.println("");
 
     }
+      
 //       public static void exercise_19(){
 //        System.out.println("********** Exercise 19 **********");
-//        int given=5;//Bunu Scanner ile yaza bilerdim ki input value-nu colden gotursun. Amma hele kecmemisik deye yazmadim
 //       
 //        System.out.println("******************************");
 //        System.out.println("");
 //
 //    }
-    
+//       public static void exercise_20(){
+//        System.out.println("********** Exercise 20 **********");
+//       
+//        System.out.println("******************************");
+//        System.out.println("");
+//
+//    }
+ 
+//       public static void exercise_21(){
+//        System.out.println("********** Exercise 21 **********");
+//       
+//        System.out.println("******************************");
+//        System.out.println("");
+//
+//    }
+//       public static void exercise_22(){
+//        System.out.println("********** Exercise 22 **********");
+//       
+//        System.out.println("******************************");
+//        System.out.println("");
+//
+//    }   
+
+//       public static void exercise_23(){
+//        System.out.println("********** Exercise 23 **********");
+//       
+//        System.out.println("******************************");
+//        System.out.println("");
+//
+//    }
+//       public static void exercise_24(){
+//        System.out.println("********** Exercise 24 **********");
+//       
+//        System.out.println("******************************");
+//        System.out.println("");
+//
+//    }      
+//       public static void exercise_25(){
+//        System.out.println("********** Exercise 25 **********");
+//       
+//        System.out.println("******************************");
+//        System.out.println("");
+//
+//    }
+//       public static void exercise_26(){
+//        System.out.println("********** Exercise 26 **********");
+//       
+//        System.out.println("******************************");
+//        System.out.println("");
+//
+//    }     
+      
+      
+      
+      
 }
